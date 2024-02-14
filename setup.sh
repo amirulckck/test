@@ -282,14 +282,14 @@ wget https://raw.githubusercontent.com/amirulckck/test/main/backup/set-br.sh && 
 rm set-br.sh
 clear
 #Instal menu
-#echo -e "\e[33m-----------------------------------\033[0m"
-#echo -e "$BGreen     Install MENU UPDATE           $NC"
-#echo -e "\e[33m-----------------------------------\033[0m"
-#sleep 0.5
-#clear
-#wget https://raw.githubusercontent.com/amirulckck/test/main/update/updatemenu.sh && chmod +x updatemenu.sh && ./updatemenu.sh
-#rm updatemenu.sh
-#clear
+echo -e "\e[33m-----------------------------------\033[0m"
+echo -e "$BGreen     Install MENU UPDATE           $NC"
+echo -e "\e[33m-----------------------------------\033[0m"
+sleep 0.5
+clear
+wget https://raw.githubusercontent.com/amirulckck/test/main/update/updatemenu.sh && chmod +x updatemenu.sh && ./updatemenu.sh
+rm updatemenu.sh
+clear
 #cd /usr/bin/
 #wget https://raw.githubusercontent.com/hokagelegend2023/update/main/vpnpremium.sh && chmod +x vpnpremium.sh && ./vpnpremium.sh
 #sleep 2
